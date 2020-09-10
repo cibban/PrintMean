@@ -18,6 +18,6 @@ public class PrintMean {
         //Gör en sträng av "mean"
         return "" + (a + b + c + d) / 4.0;
 
-        //Test 2
+//Test 4
     }
 }
