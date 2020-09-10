@@ -9,6 +9,7 @@ public class PrintMean {
         System.out.println("Mean of 1, 2, 3, 4: " + meanCalc(1, 2, 3, 4));
         System.out.println("Mean of 1, -2, 3, -4: " + meanCalc(1, -2, 3, -4));
         System.out.println("Mean of -1, -11, 24, 2: " + meanCalc(-1, 11, 24, 2));
+        System.out.println("Mean of -1, -11, 24, 2: " + meanCalc(-11, 124, 23, 2));
     }
 
     public static String meanCalc(int a, int b, int c, int d) {
