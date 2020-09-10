@@ -17,5 +17,7 @@ public class PrintMean {
     public static String meanCalc(int a, int b, int c, int d) {
         //Gör en sträng av "mean"
         return "" + (a + b + c + d) / 4.0;
+
+        //Test 2
     }
 }
